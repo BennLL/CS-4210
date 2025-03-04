@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------
-# AUTHOR: your name
+# AUTHOR: Zihao Luo
 # FILENAME: naive_bayes.py
 # SPECIFICATION: The program wil answer the questionComplete the Python program (naïve_bayes.py) that will read the file  weather_training.csv (training set) and output the classification of each of the 10 instances from  the file weather_test (test set) if the classification confidence is >= 0.75. Sample of output: 
 #               Day Outlook Temperature Humidity Wind PlayTennis Confidence 
